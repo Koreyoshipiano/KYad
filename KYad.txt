@@ -11,3 +11,6 @@ www.libvio.fun##.popup
 ||img.ithome.com/zuihuimai/static/s11/2025-618/hongbao.html?t=2025061801&from=ithomewap&d=4&night=0$subdocument
 m.ithome.com##.ft
 
+! 2025年6月8日 https://m.ithome.com
+||img.ithome.com/zuihuimai/static/s11/2025-618/hongbao.html?t=2025061801&from=ithomewap&d=4&night=0$subdocument
+m.ithome.com##.ft
