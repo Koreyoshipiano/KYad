@@ -8,6 +8,6 @@ rebang.today##.dark\:border-borderDark-100.border-border-100.md\:border.border-y
 www.libvio.fun##.popup
 
 ! 2025年6月8日 https://m.ithome.com
-||img.ithome.com/zuihuimai/static/s11/2025-618/hongbao.html?t=2025061801&from=ithomewap&d=4&night=0$subdocument
+||img.ithome.com/zuihuimai/static/s11/2025-618/hongbao.html
 m.ithome.com##.ft
 
