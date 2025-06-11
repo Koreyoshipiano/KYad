@@ -16,3 +16,8 @@ daily.zhihu.com##.Daily
 daily.zhihu.com##.ZhihuDailyOIABanner
 daily.zhihu.com##.view-more
 
+! 2025年6月11日 https://m.36kr.com
+m.36kr.com##.float-home-button-wrp
+m.36kr.com##.interact-area
+
+
