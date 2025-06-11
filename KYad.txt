@@ -3,6 +3,7 @@
 ! 2025年6月8日 https://rebang.today
 rebang.today##.space-y-5.items-stretch.h-full.flex-col.flex > div.shadow-sm.rounded-md.dark\:bg-primaryDark-200.bg-primary-200.dark\:border-borderDark-100.border-border-100.border
 rebang.today##.dark\:border-borderDark-100.border-border-100.md\:border.border-y.dark\:text-textDark-200.text-text-200.dark\:bg-primaryDark-200.bg-primary-200.md\:rounded-md.shadow-sm.asideSize\:hidden
+rebang.today##.noise.dark\:text-textDark-200.text-text-200.dark\:bg-primaryDark-200.bg-primary-200.md\:rounded-md.shadow-sm.items-center.flex-col.flex.px-5.py-3.space-y-2.asideSize\:hidden
 
 ! 2025年6月7日 https://www.libvio.fun
 www.libvio.fun##.popup
