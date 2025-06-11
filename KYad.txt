@@ -11,3 +11,6 @@ www.libvio.fun##.popup
 ||img.ithome.com/zuihuimai/static/s11/2025-618/hongbao.html
 m.ithome.com##.ft
 
+! 2025年6月11日 https://daily.zhihu.com
+daily.zhihu.com##.Daily
+
