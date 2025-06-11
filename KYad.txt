@@ -20,4 +20,9 @@ daily.zhihu.com##.view-more
 m.36kr.com##.float-home-button-wrp
 m.36kr.com##.interact-area
 
+! 2025年6月11日 https://yuanbao.tencent.com
+yuanbao.tencent.com##.index_pc_download__IjaBf
+yuanbao.tencent.com##.agent-dialogue__tool
+
+
 
