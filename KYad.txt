@@ -13,4 +13,5 @@ m.ithome.com##.ft
 
 ! 2025年6月11日 https://daily.zhihu.com
 daily.zhihu.com##.Daily
+daily.zhihu.com##.ZhihuDailyOIABanner
 
