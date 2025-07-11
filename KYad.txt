@@ -1,29 +1,12 @@
 !Title: KYad
 
-! 2025年6月8日 https://rebang.today
+libvio.*###note
+
 rebang.today##.space-y-5.items-stretch.h-full.flex-col.flex > div.shadow-sm.rounded-md.dark\:bg-primaryDark-200.bg-primary-200.dark\:border-borderDark-100.border-border-100.border
-rebang.today##.dark\:border-borderDark-100.border-border-100.md\:border.border-y.dark\:text-textDark-200.text-text-200.dark\:bg-primaryDark-200.bg-primary-200.md\:rounded-md.shadow-sm.asideSize\:hidden
-rebang.today##.noise.dark\:text-textDark-200.text-text-200.dark\:bg-primaryDark-200.bg-primary-200.md\:rounded-md.shadow-sm.items-center.flex-col.flex.px-5.py-3.space-y-2.asideSize\:hidden
+rebang.today##.dark\:text-textDark-300.text-text-300.dark\:border-borderDark-100.border-border-100.dark\:bg-primaryDark-200.bg-primary-200.py-5.text-xs.text-center.border-t.shadow-sm.mt-5.z-10
+rebang.today##.dark\:text-textDark-200.text-text-200.dark\:bg-primaryDark-200.bg-primary-200.md\:rounded-md.shadow-sm.items-center.flex-col.flex.px-5.py-3.space-y-2.asideSize\:hidden
 
-! 2025年6月7日 https://www.libvio.fun
-www.libvio.fun##.popup
 
-! 2025年6月8日 https://m.ithome.com
-||img.ithome.com/zuihuimai/static/s11/2025-618/hongbao.html
-m.ithome.com##.ft
-
-! 2025年6月11日 https://daily.zhihu.com
-daily.zhihu.com##.Daily
-daily.zhihu.com##.ZhihuDailyOIABanner
-daily.zhihu.com##.view-more
-
-! 2025年6月11日 https://m.36kr.com
-m.36kr.com##.float-home-button-wrp
-m.36kr.com##.interact-area
-
-! 2025年6月11日 https://yuanbao.tencent.com
-yuanbao.tencent.com##.index_pc_download__IjaBf
-yuanbao.tencent.com##.agent-dialogue__tool
 
 
 
