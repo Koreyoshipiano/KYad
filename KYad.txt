@@ -12,6 +12,8 @@ www.bing.com##.b_bop_cs_sb
 ! 2025年7月15日 https://manhuapica.com
 manhuapica.com##.show.modal-backdrop
 
+bing.com###bnp_rich_div
+
 
 
 
