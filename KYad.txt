@@ -11,6 +11,10 @@ manhuapica.com##.show.modal-backdrop
 
 bing.com###bnp_rich_div
 
+rebang.today##.dark\:text-textDark-300.text-text-300.dark\:border-borderDark-100.border-border-100.dark\:bg-primaryDark-200.bg-primary-200.py-5.text-xs.text-center.border-t.shadow-sm.mt-5.z-10
+rebang.today##.space-y-5.items-stretch.h-full.flex-col.flex > .shadow-sm.rounded-md.dark\:bg-primaryDark-200.bg-primary-200.dark\:border-borderDark-100.border-border-100.border
+rebang.today##.dark\:text-textDark-200.text-text-200.dark\:bg-primaryDark-200.bg-primary-200.rounded-md.shadow-sm
+rebang.today##.dark\:text-textDark-200.text-text-200.dark\:bg-primaryDark-200.bg-primary-200.md\:rounded-md.shadow-sm.items-center.flex-col.flex.px-5.py-3.space-y-2.asideSize\:hidden
 
 
 
